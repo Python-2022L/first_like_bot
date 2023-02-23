@@ -37,3 +37,12 @@ pip install -r requirements.txt
 ```bash
 export TOKEN=your_token
 ```
+
+## Database
+
+```json
+{
+    "like":1,
+    "dislike":2
+}
+```
